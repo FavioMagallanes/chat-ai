@@ -23,7 +23,7 @@ const Chat = () => {
   return (
     <Card className="w-[440px]">
       <CardHeader>
-        <CardTitle>Chat AI</CardTitle>
+        <CardTitle>Chat A</CardTitle>
         <CardDescription className="text-sm">
           Using Vercel SDK to create a chat bot.
         </CardDescription>
